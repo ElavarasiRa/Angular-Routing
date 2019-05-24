@@ -1,0 +1,14 @@
+.panel{
+	width:40%;
+	margin:50px auto;
+	border:15px solid pink;
+
+}
+button{
+	background-color:#27273c;
+	color:white
+}
+.add:hover{
+	background-color: green;
+	color: white;
+}
